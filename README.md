@@ -12,6 +12,6 @@ Ce projet est le résultat d'un travail intensif sur la **reproductibilité** et
 * **Supervision :** Monitoring de l'état de santé de l'infrastructure via Zabbix.
 * **Industrialisation du Déploiement :** Mise en place d'un serveur **WDS & MDT** pour le déploiement automatisé d'images OS (Lite Touch) sur les différents VLANs.
 * 
-👉 **[Consulter le dossier technique (89 pages - PDF)](./infra_moderne_projet.pdf)**
+👉 **[Consulter le dossier technique (89 pages - PDF)](Rapport_pdf/infra_moderne_projet.pdf)**
 
 > *Note : Ce document détaille chaque étape de configuration pour garantir une infrastructure stable, résiliente et prête pour la production.*
